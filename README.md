@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yabhi9899
 - 👀 I’m interested in learning new Stuff
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java projects
+- 🌱 I’m currently learning Java and Web Development
+- 💞️ I’m looking to collaborate on projects
 - 📫 Mail me at ay129695004252@gmail.com for anything 
 
 <!---
